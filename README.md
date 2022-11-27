@@ -1,2 +1,3 @@
 # App_RA
-Aplicación móvil de realidad aumentada básica.
+EL enlace del código esta en este nuevo enlace:
+https://www.mediafire.com/file/iy80jz7kq051ihx/App_with_AR.zip/file
